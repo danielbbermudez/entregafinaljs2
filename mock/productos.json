@@ -1,0 +1,114 @@
+[
+    {
+            "id": 1,
+            "precio": 640000,
+            "nombre": "Apple iPhone 13 Pro 6,1 1TB Plata",
+            "foto": "../images/telefono-01.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 2,
+            "precio": 371600,
+            "nombre": "Apple iPhone 13 6,1 256GB Blanco",
+            "foto": "../images/telefono-02.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 3,
+            "precio": 771600,
+            "nombre": "Apple iPhone 14 Pro 6,1 1TB Negro",
+            "foto": "../images/telefono-03.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 4,
+            "precio": 435600,
+            "nombre": "Apple iPhone 14 6,1 256GB Negro",
+            "foto": "../images/telefono-04.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 5,
+            "precio": 303600,
+            "nombre": "Samsung Galaxy S22 5G 6,1 128GB Negro",
+            "foto": "../images/telefono-05.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 6,
+            "precio": 635600,
+            "nombre": "Samsung Galaxy S23 Ultra 6,8 512GB Negro",
+            "foto": "../images/telefono-06.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 7,
+            "precio": 240400,
+            "nombre": "Samsung Galaxy Z Flip3 5G 6,7 128GB Negro",
+            "foto": "../images/telefono-07.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 8,
+            "precio": 463600,
+            "nombre": "Samsung Galaxy Z Flip4 6,7 512GB Gris",
+            "foto": "../images/telefono-08.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 9,
+            "precio": 740600,
+            "nombre": "Samsung Galaxy Tab S8 Ultra 14,6 512GB 5G Gris",
+            "foto": "../images/tablet-01.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 10,
+            "precio": 647600,
+            "nombre": "Samsung Galaxy Tab S8 Ultra 14,6 512GB Gris",
+            "foto": "../images/tablet-02.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 11,
+            "precio": 347600,
+            "nombre": "Apple iPad Air (2022) 10.9 Wi-Fi 256 GB Blanco",
+            "foto": "../images/tablet-03.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 12,
+            "precio": 600000,
+            "nombre": "Apple iPad Pro 2022 12,9'' M2 256GB Wi-Fi Plata",
+            "foto": "../images/tablet-04.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 13,
+            "precio": 131600,
+            "nombre": "Consola Nintendo Switch OLED Azul/Rojo",
+            "foto": "../images/consola-01.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 14,
+            "precio": 239600,
+            "nombre": "Consola PlayStation 5 825GB",
+            "foto": "../images/consola-02.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 15,
+            "precio": 155600,
+            "nombre": "Consola Xbox serie S 512GB",
+            "foto": "../images/consola-03.jpeg",
+            "cantidad": 1
+    },
+    {
+            "id": 16,
+            "precio": 179600,
+            "nombre": "Consola Xbox serie X 512GB",
+            "foto": "../images/consola-04.jpeg",
+            "cantidad": 1
+    }
+]
